@@ -2,7 +2,8 @@
 import { useEffect, useState } from 'react';
 import Blogs from './HomeComponents/Blogs'
 import Category from './HomeComponents/Category'
-import CategoryBlog from './HomeComponents/CategorYBlog';
+import CategoryBlog from './HomeComponents/CategoryBlog';
+
 
 
 const Home = () => {
